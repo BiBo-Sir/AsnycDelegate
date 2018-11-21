@@ -1,6 +1,6 @@
 C#异步编程模式
 
-   .net framework支持异步调用方法，BeginInvoke 和EndInvoke是委托自动生成的方法
+    .net framework支持异步调用方法，BeginInvoke 和EndInvoke是委托自动生成的方法
    
     BeginInvoke启用异步调用,该方法有与异步执行的方法相同的参数，另外还有两个可选参数
     
